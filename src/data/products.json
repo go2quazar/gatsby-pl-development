@@ -1,0 +1,3386 @@
+[
+  {
+    "name": "Adult Gummy Multi",
+    "sku": 26054,
+    "size": 90,
+    "cost": 5.9,
+    "price": 7.9,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Biotin 2500mcg",
+    "sku": 26055,
+    "size": 90,
+    "cost": 5.74,
+    "price": 7.65,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-250mg",
+    "sku": 26056,
+    "size": 90,
+    "cost": 6.21,
+    "price": 8.3,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "D-3 1000IU",
+    "sku": 26059,
+    "size": 90,
+    "cost": 5.41,
+    "price": 7.2,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Fiber",
+    "sku": 26060,
+    "size": 60,
+    "cost": 5.53,
+    "price": 7.35,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hair Gummy Vites",
+    "sku": 50291,
+    "size": 60,
+    "cost": 4.75,
+    "price": 6.35,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Kid's Gummy Multi",
+    "sku": 14574,
+    "size": 90,
+    "cost": 5.9,
+    "price": 7.9,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Melatonin 2.5mg",
+    "sku": 26061,
+    "size": 90,
+    "cost": 5.9,
+    "price": 7.9,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Omega + DHA",
+    "sku": 26062,
+    "size": 60,
+    "cost": 5.16,
+    "price": 6.8,
+    "type": "Gummy",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Cinnamon",
+    "sku": 48467,
+    "size": 60,
+    "cost": 3.74,
+    "price": 4.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Cinnamon",
+    "sku": 48427,
+    "size": 120,
+    "cost": 6.32,
+    "price": 8.45,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Cinnamon",
+    "sku": 48428,
+    "size": 180,
+    "cost": 8.91,
+    "price": 11.9,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Cinnamon",
+    "sku": 48429,
+    "size": 240,
+    "cost": 11.72,
+    "price": 15.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Turmeric",
+    "sku": 48466,
+    "size": 60,
+    "cost": 3.55,
+    "price": 4.75,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Turmeric",
+    "sku": 48032,
+    "size": 90,
+    "cost": 4.75,
+    "price": 6.35,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Turmeric",
+    "sku": 48034,
+    "size": 120,
+    "cost": 5.95,
+    "price": 7.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Turmeric",
+    "sku": 48036,
+    "size": 180,
+    "cost": 8.35,
+    "price": 11.15,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Greens",
+    "sku": 48464,
+    "size": 60,
+    "cost": 5.31,
+    "price": 7.1,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Organic Greens",
+    "sku": 48465,
+    "size": 120,
+    "cost": 9.46,
+    "price": 12.6,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "5-HTP 50mg",
+    "sku": 107,
+    "size": 60,
+    "cost": 4.69,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "7 Day Cleanse Pack",
+    "sku": 7967,
+    "size": "21 Packets",
+    "cost": 10.68,
+    "price": 14.25,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "7-Keto DHEA 100mg",
+    "sku": 95000,
+    "size": 30,
+    "cost": 9.64,
+    "price": 12.85,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "15 Day Cleanse",
+    "sku": 3965,
+    "size": 30,
+    "cost": 2.31,
+    "price": 3.3,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "30 Billion-Biotic",
+    "sku": 95001,
+    "size": 30,
+    "cost": 8.62,
+    "price": 12.3,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "30 Billion-Biotic",
+    "sku": 95002,
+    "size": 60,
+    "cost": 16,
+    "price": 22.9,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "A & D 10000 / 400IU",
+    "sku": 1812,
+    "size": 100,
+    "cost": 2.89,
+    "price": 3.85,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Acai Fruit 600mg",
+    "sku": 2245,
+    "size": 60,
+    "cost": 3.49,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Adrenal Support",
+    "sku": 37983,
+    "size": 60,
+    "cost": 4.64,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Adrenal Support",
+    "sku": 37984,
+    "size": 120,
+    "cost": 8.14,
+    "price": 10.9,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Advanced Probiotic",
+    "sku": 4599,
+    "size": 60,
+    "cost": 5.15,
+    "price": 7.35,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Advanced Probiotic",
+    "sku": 228,
+    "size": 120,
+    "cost": 9.28,
+    "price": 13.25,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "African Mango 500mg",
+    "sku": 10488,
+    "size": 60,
+    "cost": 3.81,
+    "price": 5.1,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ALA 300mg",
+    "sku": 31127,
+    "size": 60,
+    "cost": 4.93,
+    "price": 6.6,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ALA 300mg",
+    "sku": 31128,
+    "size": 120,
+    "cost": 8.79,
+    "price": 11.7,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ALA / ALC 750mg",
+    "sku": 4613,
+    "size": 60,
+    "cost": 4.9,
+    "price": 6.55,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ALA / ALC 750mg",
+    "sku": 4611,
+    "size": 120,
+    "cost": 8.97,
+    "price": 11.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Amino Acid 1000mg",
+    "sku": 130,
+    "size": 100,
+    "cost": 3.98,
+    "price": 5.35,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Amino Acid 1000mg",
+    "sku": 172,
+    "size": 250,
+    "cost": 8.51,
+    "price": 11.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Amino Acid 1000mg",
+    "sku": 173,
+    "size": 500,
+    "cost": 16.15,
+    "price": 21.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Amino Acid 2200mg",
+    "sku": 131,
+    "size": 150,
+    "cost": 7.97,
+    "price": 11.25,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Amino Acid 2200mg",
+    "sku": 333,
+    "size": 325,
+    "cost": 16.31,
+    "price": 21.75,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Apple Cider Vinegar",
+    "sku": 73,
+    "size": 90,
+    "cost": 3.47,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-100 Complex",
+    "sku": 1259,
+    "size": 50,
+    "cost": 3.71,
+    "price": 4.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-100 Complex",
+    "sku": 175,
+    "size": 100,
+    "cost": 6.35,
+    "price": 8.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-100 Complex",
+    "sku": 176,
+    "size": 250,
+    "cost": 14.35,
+    "price": 19.15,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-12 1mg Sublinqual",
+    "sku": 2608,
+    "size": 100,
+    "cost": 3.27,
+    "price": 4.7,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-12 500mcg",
+    "sku": 7306,
+    "size": 100,
+    "cost": 2.36,
+    "price": 3.15,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-12 5000mcg",
+    "sku": 8,
+    "size": 60,
+    "cost": 5.03,
+    "price": 6.7,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "B-6 50mg",
+    "sku": 5,
+    "size": 100,
+    "cost": 2.52,
+    "price": 3.4,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "BCAA 3000mg",
+    "sku": 95003,
+    "size": 120,
+    "cost": 5.94,
+    "price": 7.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Bedtime Weight Loss",
+    "sku": 74,
+    "size": 60,
+    "cost": 6.21,
+    "price": 8.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Betasitosterol",
+    "sku": 92,
+    "size": 90,
+    "cost": 3.94,
+    "price": 5.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Biotin 10000mcg",
+    "sku": 95004,
+    "size": 90,
+    "cost": 4.07,
+    "price": 5.45,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Black Seed Oil",
+    "sku": 46193,
+    "size": 90,
+    "cost": 4.4,
+    "price": 5.95,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Blood Pressure Support",
+    "sku": 3,
+    "size": 90,
+    "cost": 6.62,
+    "price": 9.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Blood Pressure Support",
+    "sku": 177,
+    "size": 180,
+    "cost": 12.22,
+    "price": 17.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Blood Sugar Support",
+    "sku": 94,
+    "size": 60,
+    "cost": 3.47,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Blood Sugar Support",
+    "sku": 94120,
+    "size": 120,
+    "cost": 6.61,
+    "price": 9.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Bone Health",
+    "sku": 9564,
+    "size": 90,
+    "cost": 3.26,
+    "price": 4.35,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Bone Health",
+    "sku": 11484,
+    "size": 180,
+    "cost": 5.51,
+    "price": 7.35,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Brazilian Burn w/ Acai",
+    "sku": 2776,
+    "size": 60,
+    "cost": 3.19,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Brazilian Cleanse w/ Acai",
+    "sku": 2841,
+    "size": 60,
+    "cost": 3.42,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-500 w/ rose hips",
+    "sku": 13,
+    "size": 50,
+    "cost": 2.09,
+    "price": 2.8,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-500 w/ rose hips",
+    "sku": 181,
+    "size": 100,
+    "cost": 3.17,
+    "price": 4.25,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-500 w/ rose hips",
+    "sku": 182,
+    "size": 250,
+    "cost": 6.41,
+    "price": 8.55,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-1000 Complex",
+    "sku": 7275,
+    "size": 50,
+    "cost": 3.18,
+    "price": 4.25,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-1000 Complex",
+    "sku": 179,
+    "size": 100,
+    "cost": 5.34,
+    "price": 7.15,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "C-1000 Complex",
+    "sku": 180,
+    "size": 250,
+    "cost": 11.82,
+    "price": 15.75,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium 250mg w/ Vitamin D",
+    "sku": 26,
+    "size": 100,
+    "cost": 1.98,
+    "price": 2.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium 500mg w/ Vitamin D",
+    "sku": 95005,
+    "size": 60,
+    "cost": 1.79,
+    "price": 2.4,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium 500mg w/ Vitamin D",
+    "sku": 95006,
+    "size": 120,
+    "cost": 2.88,
+    "price": 3.85,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium 650mg w/ Vitamin D",
+    "sku": 95007,
+    "size": 60,
+    "cost": 1.98,
+    "price": 2.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium 650mg w/ Vitamin D",
+    "sku": 95008,
+    "size": 120,
+    "cost": 3.06,
+    "price": 4.1,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium Complex w/ A&D",
+    "sku": 95009,
+    "size": 60,
+    "cost": 1.89,
+    "price": 2.55,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium Complex w/ A&D",
+    "sku": 95010,
+    "size": 120,
+    "cost": 2.98,
+    "price": 3.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium Pyruvate 750mg",
+    "sku": 95,
+    "size": 120,
+    "cost": 4.46,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium Magnesium",
+    "sku": 27,
+    "size": 120,
+    "cost": 3.4,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Calcium Magnesium",
+    "sku": 170,
+    "size": 240,
+    "cost": 6.25,
+    "price": 8.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Candida Complex",
+    "sku": 5836,
+    "size": 60,
+    "cost": 4.33,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cape Aloe 250mg",
+    "sku": 95011,
+    "size": 60,
+    "cost": 2.31,
+    "price": 3.1,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cape Aloe 450mg",
+    "sku": 59,
+    "size": 90,
+    "cost": 4.13,
+    "price": 5.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cape Aloe Lax Blend",
+    "sku": 652,
+    "size": 90,
+    "cost": 3.51,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Carnitine",
+    "sku": 132,
+    "size": 30,
+    "cost": 2.77,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Carnitine",
+    "sku": 245,
+    "size": 60,
+    "cost": 4.87,
+    "price": 6.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cat's Claw",
+    "sku": 95012,
+    "size": 100,
+    "cost": 3.4,
+    "price": 4.55,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cheat & Eat",
+    "sku": 76,
+    "size": 60,
+    "cost": 7.67,
+    "price": 10.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cheat & Eat",
+    "sku": 184,
+    "size": 90,
+    "cost": 9.95,
+    "price": 14.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Chia Seed Oil 500mg",
+    "sku": 43266,
+    "size": 60,
+    "cost": 4.46,
+    "price": 5.95,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Chia Seed Oil 500mg",
+    "sku": 43402,
+    "size": 120,
+    "cost": 7.84,
+    "price": 10.45,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Choless Control",
+    "sku": 96,
+    "size": 60,
+    "cost": 3.9,
+    "price": 5.6,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Choless Control",
+    "sku": 186,
+    "size": 120,
+    "cost": 6.75,
+    "price": 9.95,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Choless Daily Pack",
+    "sku": "76A",
+    "size": "",
+    "cost": 16.43,
+    "price": 21.9,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Chromium Picolinate",
+    "sku": 28,
+    "size": 100,
+    "cost": 2.91,
+    "price": 3.9,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cinnamon Complex",
+    "sku": 45,
+    "size": 90,
+    "cost": 2.75,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cinnamon Complex",
+    "sku": 45180,
+    "size": 180,
+    "cost": 5,
+    "price": 7.15,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Circulation Support",
+    "sku": 95013,
+    "size": 90,
+    "cost": 4.82,
+    "price": 6.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Circulation Support",
+    "sku": 95014,
+    "size": 180,
+    "cost": 8.86,
+    "price": 11.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "CLA",
+    "sku": 19,
+    "size": 60,
+    "cost": 5.21,
+    "price": 6.95,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "CLA",
+    "sku": 187,
+    "size": 120,
+    "cost": 8.96,
+    "price": 11.95,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Coconut Oil",
+    "sku": 12702,
+    "size": 100,
+    "cost": 5.45,
+    "price": 7.35,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 30mg",
+    "sku": 97,
+    "size": 30,
+    "cost": 2.54,
+    "price": 3.4,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 30mg",
+    "sku": 919,
+    "size": 60,
+    "cost": 3.92,
+    "price": 5.25,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 100mg",
+    "sku": 95015,
+    "size": 30,
+    "cost": 3.78,
+    "price": 4.3,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 100mg",
+    "sku": 95016,
+    "size": 60,
+    "cost": 6.41,
+    "price": 8.5,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 120mg",
+    "sku": 98,
+    "size": 30,
+    "cost": 5.03,
+    "price": 6.7,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Co Q10 120mg",
+    "sku": 188,
+    "size": 60,
+    "cost": 8.91,
+    "price": 11.9,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Coleus Forskohlii 250mg",
+    "sku": 95017,
+    "size": 60,
+    "cost": 7.58,
+    "price": 10.1,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Collagen Peptides Powder",
+    "sku": 95018,
+    "size": "1lb",
+    "cost": 11.21,
+    "price": 14.95,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Collagen Peptides 750mg",
+    "sku": 7060,
+    "size": 120,
+    "cost": 4.76,
+    "price": 6.35,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Colo Scrub",
+    "sku": 41178,
+    "size": 60,
+    "cost": 2.73,
+    "price": 3.65,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Colon Complex",
+    "sku": 61,
+    "size": 90,
+    "cost": 3.39,
+    "price": 5.15,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Colostrum 500mg",
+    "sku": 99,
+    "size": 100,
+    "cost": 4.87,
+    "price": 6.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Coral Calcium",
+    "sku": 29,
+    "size": 60,
+    "cost": 3.47,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Coral Calcium",
+    "sku": 190,
+    "size": 120,
+    "cost": 6.27,
+    "price": 8.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Coral Calcium",
+    "sku": 191,
+    "size": 240,
+    "cost": 10.47,
+    "price": 14.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Corti-Therm",
+    "sku": 2287,
+    "size": 60,
+    "cost": 4.25,
+    "price": 9.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cranberry Concentrate",
+    "sku": 2550,
+    "size": 60,
+    "cost": 4.86,
+    "price": 6.45,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Cranberry Concentrate",
+    "sku": 2549,
+    "size": 120,
+    "cost": 8.71,
+    "price": 11.65,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "sku": 142,
+    "size": "100gm",
+    "cost": 2.35,
+    "price": 3.35,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "sku": 2262,
+    "size": "300gm",
+    "cost": 5.66,
+    "price": 7.6,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "sku": 2263,
+    "size": "500gm",
+    "cost": 8.75,
+    "price": 11.7,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "sku": 570,
+    "size": "1000gm",
+    "cost": 16.66,
+    "price": 22.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "sku": 1394,
+    "size": "2000gm",
+    "cost": 31.1,
+    "price": 41.45,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Creatine Triphase",
+    "sku": 143,
+    "size": 90,
+    "cost": 4.36,
+    "price": 5.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "CS / GS / MSM",
+    "sku": 102,
+    "size": 200,
+    "cost": 6.85,
+    "price": 9.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "CS / GS / MSM",
+    "sku": 193,
+    "size": 450,
+    "cost": 14.15,
+    "price": 18.9,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "D-3 1500IU",
+    "sku": 2909,
+    "size": 100,
+    "cost": 1.85,
+    "price": 2.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "D-3 5000IU",
+    "sku": 5703,
+    "size": 90,
+    "cost": 2.9,
+    "price": 3.3,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "D-3 10000IU",
+    "sku": 95019,
+    "size": 90,
+    "cost": 3.72,
+    "price": 4.25,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "D-3 With Vitamin K-2",
+    "sku": 95020,
+    "size": 90,
+    "cost": 3.49,
+    "price": 4.65,
+    "type": "Chewable Tab",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 25mg",
+    "sku": 103,
+    "size": 50,
+    "cost": 2.83,
+    "price": 3.8,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 25mg",
+    "sku": 194,
+    "size": 100,
+    "cost": 4.66,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 50mg",
+    "sku": 104,
+    "size": 50,
+    "cost": 3.82,
+    "price": 5.1,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 50mg",
+    "sku": 195,
+    "size": 100,
+    "cost": 6.62,
+    "price": 8.85,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 100mg",
+    "sku": 105,
+    "size": 30,
+    "cost": 3.61,
+    "price": 4.85,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DHEA 100mg",
+    "sku": 328,
+    "size": 90,
+    "cost": 8.82,
+    "price": 11.75,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Digest Matrix 500mg",
+    "sku": 64,
+    "size": 60,
+    "cost": 5,
+    "price": 6.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Digest Matrix 500mg",
+    "sku": 196,
+    "size": 120,
+    "cost": 9,
+    "price": 12.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Digestive Enzyme 325mg",
+    "sku": 63,
+    "size": 50,
+    "cost": 2.26,
+    "price": 3,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Digestive Enzyme 325mg",
+    "sku": 197,
+    "size": 100,
+    "cost": 3.51,
+    "price": 4.7,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Digestive Enzyme 325mg",
+    "sku": 198,
+    "size": 250,
+    "cost": 7.26,
+    "price": 9.7,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Drug Free Detoxifier",
+    "sku": 62,
+    "size": 100,
+    "cost": 5.9,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "DIM Complex",
+    "sku": 49783,
+    "size": 60,
+    "cost": 5.23,
+    "price": 7,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "E-1000 (dl-alpha)",
+    "sku": 18,
+    "size": 50,
+    "cost": 5.68,
+    "price": 7.6,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "E-1000 (dl-alpha)",
+    "sku": 199,
+    "size": 100,
+    "cost": 10.34,
+    "price": 13.8,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "E-400 (d-alpha)",
+    "sku": 17,
+    "size": 50,
+    "cost": 3.75,
+    "price": 5,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "E-400 (d-alpha)",
+    "sku": 3421,
+    "size": 100,
+    "cost": 6.56,
+    "price": 8.75,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "E-400 (d-alpha)",
+    "sku": 95021,
+    "size": 250,
+    "cost": 16,
+    "price": 21.3,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "EFA Complex",
+    "sku": 679,
+    "size": 120,
+    "cost": 6.75,
+    "price": 9.75,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "EFA Complex Pack",
+    "sku": "281A",
+    "size": "",
+    "cost": 8.55,
+    "price": 11.4,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Electrolyte Support",
+    "sku": 46147,
+    "size": 100,
+    "cost": 4.53,
+    "price": 6.05,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "EPA / DHA Omega 3",
+    "sku": 20,
+    "size": 60,
+    "cost": 2.31,
+    "price": 3.1,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "EPA / DHA Omega 4",
+    "sku": 201,
+    "size": 120,
+    "cost": 3.55,
+    "price": 4.75,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Flaxseed 1000mg",
+    "sku": 23,
+    "size": 100,
+    "cost": 2.96,
+    "price": 3.95,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Folic Acid 800mcg",
+    "sku": 95022,
+    "size": 100,
+    "cost": 1.96,
+    "price": 2.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "G-Enhancer for Women",
+    "sku": 5040,
+    "size": 60,
+    "cost": 3.45,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Garcinia Complex",
+    "sku": 4475,
+    "size": 60,
+    "cost": 2.25,
+    "price": 3.05,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Garcinia 800mg",
+    "sku": 16097,
+    "size": 60,
+    "cost": 3.26,
+    "price": 4.35,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Garlic & Parsley 500mg",
+    "sku": 46,
+    "size": 100,
+    "cost": 2.12,
+    "price": 2.85,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Garlic & Parsley 500mg",
+    "sku": 203,
+    "size": 250,
+    "cost": 4.09,
+    "price": 5.45,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Garlic 400mg Extract",
+    "sku": 47,
+    "size": 60,
+    "cost": 3.33,
+    "price": 4.95,
+    "type": "Enteric Coated Tab.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ginkgo Biloba 60mg",
+    "sku": 48,
+    "size": 60,
+    "cost": 2.75,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ginkgo Biloba 60mg",
+    "sku": 204,
+    "size": 120,
+    "cost": 5.25,
+    "price": 7.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glucosamine 500mg",
+    "sku": 109,
+    "size": 120,
+    "cost": 3.34,
+    "price": 4.45,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glutalytic",
+    "sku": 95023,
+    "size": 60,
+    "cost": 8.07,
+    "price": 10.75,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glutamine 1000mg",
+    "sku": 133,
+    "size": 100,
+    "cost": 4.87,
+    "price": 6.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glutamine Powder",
+    "sku": 968,
+    "size": "300gm",
+    "cost": 7.66,
+    "price": 10.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glutamine Powder",
+    "sku": 541,
+    "size": "500gm",
+    "cost": 12,
+    "price": 16,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Glutamine Powder",
+    "sku": 9364,
+    "size": "1000gm",
+    "cost": 23.33,
+    "price": 31,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Graviola 650mg",
+    "sku": 2239,
+    "size": 100,
+    "cost": 3.95,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Great Hair Formula",
+    "sku": 257,
+    "size": 30,
+    "cost": 4.77,
+    "price": 7.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Great Hair Formula",
+    "sku": 11771,
+    "size": 60,
+    "cost": 7.74,
+    "price": 10.45,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Green Coffee Bean Complex",
+    "sku": 11860,
+    "size": 60,
+    "cost": 4.7,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Green Coffee Bean 400mg Ext.",
+    "sku": 12736,
+    "size": 60,
+    "cost": 5.88,
+    "price": 7.85,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Green Coffee Bean 400mg Ext.",
+    "sku": 12737,
+    "size": 120,
+    "cost": 10.74,
+    "price": 14.35,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Green Coffee / Ketone Cmplx",
+    "sku": 14562,
+    "size": 60,
+    "cost": 5.93,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Green Tea 98% Extract",
+    "sku": 51,
+    "size": 60,
+    "cost": 2.93,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Guarana 1000mg",
+    "sku": 95024,
+    "size": 90,
+    "cost": 3.45,
+    "price": 4.6,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hair Skin & Nails Complex",
+    "sku": 95025,
+    "size": 60,
+    "cost": 5.53,
+    "price": 7.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hair Skin & Nails Complex",
+    "sku": 95026,
+    "size": 120,
+    "cost": 9.97,
+    "price": 13.6,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Heart Support",
+    "sku": 5615,
+    "size": 90,
+    "cost": 5.89,
+    "price": 8.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Heart Support",
+    "sku": 5616,
+    "size": 180,
+    "cost": 10.71,
+    "price": 14.3,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hebal Lax",
+    "sku": 2696,
+    "size": 60,
+    "cost": 3.47,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hebal Lax",
+    "sku": 2514,
+    "size": 120,
+    "cost": 5.87,
+    "price": 8.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "HGH Support",
+    "sku": 111,
+    "size": 60,
+    "cost": 6.21,
+    "price": 8.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hoodia SRT 1000mg",
+    "sku": 84,
+    "size": 90,
+    "cost": 8.05,
+    "price": 12.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Hoodia SRT 1000mg",
+    "sku": 207,
+    "size": 180,
+    "cost": 15.45,
+    "price": 23.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Horny Goat Weed",
+    "sku": 2551,
+    "size": 60,
+    "cost": 3.45,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Horny Goat Weed",
+    "sku": 208,
+    "size": 120,
+    "cost": 5.75,
+    "price": 8.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Infinite Male (Libido Formula)",
+    "sku": 14107,
+    "size": 30,
+    "cost": 2.92,
+    "price": 3.9,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Infinite Male (Libido Formula)",
+    "sku": 13492,
+    "size": 60,
+    "cost": 4.77,
+    "price": 6.35,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Immune Support",
+    "sku": 117,
+    "size": 60,
+    "cost": 4.16,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Immune Support",
+    "sku": 209,
+    "size": 120,
+    "cost": 7.67,
+    "price": 10.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Inositol Powder",
+    "sku": 1642,
+    "size": "2oz",
+    "cost": 4.1,
+    "price": 5.5,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Inositol Powder",
+    "sku": 1039,
+    "size": "4oz",
+    "cost": 6.91,
+    "price": 9.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Inositol Powder",
+    "sku": 779,
+    "size": "8oz",
+    "cost": 12.91,
+    "price": 17.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Joint Complex Pack",
+    "sku": 7914,
+    "size": "30 Packets",
+    "cost": 12.91,
+    "price": 17.3,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Joint Matrix",
+    "sku": 115,
+    "size": 90,
+    "cost": 5.57,
+    "price": 7.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Joint Matrix",
+    "sku": 210,
+    "size": 180,
+    "cost": 10.05,
+    "price": 14.35,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Juice Complex",
+    "sku": 4756,
+    "size": 60,
+    "cost": 4.91,
+    "price": 6.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Juice Complex",
+    "sku": 2339,
+    "size": 120,
+    "cost": 9.32,
+    "price": 13.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Just 4 Life Multi",
+    "sku": 35,
+    "size": 90,
+    "cost": 10.13,
+    "price": 13.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Just 4 Life Multi",
+    "sku": 211,
+    "size": 180,
+    "cost": 17.79,
+    "price": 23.7,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Kidney Support",
+    "sku": 18002,
+    "size": 60,
+    "cost": 3.85,
+    "price": 5.15,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Kidney Support",
+    "sku": 18003,
+    "size": 120,
+    "cost": 7.2,
+    "price": 9.6,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Krill Oil 500mg",
+    "sku": 2264,
+    "size": 60,
+    "cost": 5.97,
+    "price": 7.95,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Lecithin 1200mg",
+    "sku": 24,
+    "size": 100,
+    "cost": 3.3,
+    "price": 4.4,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Lecithin 1200mg",
+    "sku": 212,
+    "size": 250,
+    "cost": 6.74,
+    "price": 9,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Lecithin 1200mg",
+    "sku": 213,
+    "size": 500,
+    "cost": 12.47,
+    "price": 16.65,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Life's Vitality",
+    "sku": 36,
+    "size": 90,
+    "cost": 6.86,
+    "price": 9.15,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Life's Vitality",
+    "sku": 214,
+    "size": 180,
+    "cost": 12.69,
+    "price": 16.9,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Liquid Multi Cap",
+    "sku": 95027,
+    "size": 60,
+    "cost": 3.11,
+    "price": 4.15,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Liquid Multi Cap",
+    "sku": 95028,
+    "size": 120,
+    "cost": 5.09,
+    "price": 6.8,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Liver Plast",
+    "sku": 22546,
+    "size": 60,
+    "cost": 7.11,
+    "price": 9.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Lysine 500mg",
+    "sku": 135,
+    "size": 100,
+    "cost": 2.07,
+    "price": 2.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Magnesium 500mg Complex",
+    "sku": 95029,
+    "size": 60,
+    "cost": 2.94,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Magnesium 500mg Complex",
+    "sku": 95030,
+    "size": 120,
+    "cost": 4.81,
+    "price": 6.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Maintenance Cleanse",
+    "sku": 3870,
+    "size": 90,
+    "cost": 3,
+    "price": 4.3,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "MCT Oil 750mg",
+    "sku": 40978,
+    "size": 120,
+    "cost": 3.81,
+    "price": 5.25,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega EPA / DHA",
+    "sku": 678,
+    "size": 60,
+    "cost": 3.74,
+    "price": 4.95,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega EPA / DHA",
+    "sku": 1809,
+    "size": 120,
+    "cost": 6.82,
+    "price": 9.1,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega EPA / DHA (Enteric)",
+    "sku": 3472,
+    "size": 60,
+    "cost": 4.47,
+    "price": 6.4,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega EPA / DHA (Enteric)",
+    "sku": 3508,
+    "size": 120,
+    "cost": 8.82,
+    "price": 12.6,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega Mineral",
+    "sku": 1031,
+    "size": 100,
+    "cost": 3.54,
+    "price": 4.75,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega Mineral",
+    "sku": 1906,
+    "size": 250,
+    "cost": 7.49,
+    "price": 9.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega 2 1 A Day",
+    "sku": 37,
+    "size": 30,
+    "cost": 3.76,
+    "price": 5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega 2 1 A Day",
+    "sku": 219,
+    "size": 60,
+    "cost": 6.51,
+    "price": 8.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega 2 1 A Day",
+    "sku": 816,
+    "size": 90,
+    "cost": 9.25,
+    "price": 12.3,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mega 2 1 A Day",
+    "sku": 221,
+    "size": 180,
+    "cost": 16.92,
+    "price": 22.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Melatonin 3mg",
+    "sku": 118,
+    "size": 50,
+    "cost": 1.88,
+    "price": 2.5,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Men's Daily Pack",
+    "sku": 7143,
+    "size": "30 Packets",
+    "cost": 15.16,
+    "price": 18.95,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Milk Thistle Complex 450mg",
+    "sku": 53,
+    "size": 60,
+    "cost": 2.8,
+    "price": 3.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mind Matrix",
+    "sku": 119,
+    "size": 30,
+    "cost": 5.77,
+    "price": 8.05,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Monster Matrix Pack",
+    "sku": 9672,
+    "size": "30 packets",
+    "cost": 15.84,
+    "price": 21.15,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Monster matrix Pack (Jar)",
+    "sku": 7739,
+    "size": "30 packets",
+    "cost": 16.49,
+    "price": 21.95,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Monster Mix",
+    "sku": 146,
+    "size": "910gm",
+    "cost": 17.21,
+    "price": 22.95,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Monster Punch Pre-Workout",
+    "sku": 46807,
+    "size": "300gm",
+    "cost": 11.48,
+    "price": 15.3,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Monster Stack Pack",
+    "sku": 7763,
+    "size": "24 Packets",
+    "cost": 19.42,
+    "price": 29.95,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mood Formula",
+    "sku": 7423,
+    "size": 60,
+    "cost": 5.12,
+    "price": 6.85,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mood Formula",
+    "sku": 8062,
+    "size": 120,
+    "cost": 9.09,
+    "price": 12.15,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "MSM 1000mg",
+    "sku": 120,
+    "size": 100,
+    "cost": 3.4,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mucuna Pruriens 350mg",
+    "sku": 43042,
+    "size": 60,
+    "cost": 2.73,
+    "price": 3.65,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Mucuna Pruriens 350mg",
+    "sku": 43044,
+    "size": 120,
+    "cost": 4.37,
+    "price": 5.85,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Muscle Maker",
+    "sku": 148,
+    "size": 30,
+    "cost": 5.57,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Muscle Maker",
+    "sku": 223,
+    "size": 60,
+    "cost": 10.47,
+    "price": 14.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "N Fla-Rid",
+    "sku": "26403C-60",
+    "size": 60,
+    "cost": 6.26,
+    "price": 8.35,
+    "type": "V-capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "N Fla-Rid",
+    "sku": "26403C-120",
+    "size": 120,
+    "cost": 11.38,
+    "price": 15.2,
+    "type": "V-capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "New English Diet",
+    "sku": 85,
+    "size": 90,
+    "cost": 5.57,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Nitro Stack Pack",
+    "sku": 7856,
+    "size": "Packet",
+    "cost": 16.95,
+    "price": 24.95,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Nitro Pump",
+    "sku": 268,
+    "size": 90,
+    "cost": 7.95,
+    "price": 11.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Nitro Pump",
+    "sku": 6401,
+    "size": 180,
+    "cost": 15.4,
+    "price": 21.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Noni 500mg",
+    "sku": 95031,
+    "size": 60,
+    "cost": 2.96,
+    "price": 3.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Olive Leaf Extract",
+    "sku": 9389,
+    "size": 60,
+    "cost": 4.92,
+    "price": 6.55,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Olive Leaf Extract",
+    "sku": 9485,
+    "size": 120,
+    "cost": 8.81,
+    "price": 11.75,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Pain Rx Formula",
+    "sku": 122,
+    "size": 60,
+    "cost": 5.9,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Pain Rx Formula",
+    "sku": 222,
+    "size": 120,
+    "cost": 10.8,
+    "price": 14.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Parasite Complex",
+    "sku": 1050,
+    "size": 60,
+    "cost": 4.47,
+    "price": 6.75,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Phase 1 Colo Scrub",
+    "sku": 41178,
+    "size": 60,
+    "cost": 2.73,
+    "price": 3.65,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Phosphatidyl Choline",
+    "sku": 35600,
+    "size": 60,
+    "cost": 3.43,
+    "price": 4.6,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Phosphatidyl Choline",
+    "sku": 35601,
+    "size": 120,
+    "cost": 5.81,
+    "price": 7.75,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Phytoceramides",
+    "sku": 95032,
+    "size": 60,
+    "cost": 6.25,
+    "price": 8.35,
+    "type": "Liquid Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Pomegranate",
+    "sku": 54,
+    "size": 60,
+    "cost": 4.46,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Potassium 99mg",
+    "sku": 30,
+    "size": 100,
+    "cost": 2.07,
+    "price": 2.75,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Potassium 99mg",
+    "sku": 227,
+    "size": 250,
+    "cost": 3.63,
+    "price": 4.85,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Power Band Energy",
+    "sku": 4709,
+    "size": 60,
+    "cost": 4.17,
+    "price": 5.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Prevent Defense",
+    "sku": 19772,
+    "size": 60,
+    "cost": 8.57,
+    "price": 11.45,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Prevent Defense",
+    "sku": 95032,
+    "size": 120,
+    "cost": 15.91,
+    "price": 21.2,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Probiotic Blend",
+    "sku": 68,
+    "size": 120,
+    "cost": 4.5,
+    "price": 6,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ProHydrolase 250mg",
+    "sku": 95033,
+    "size": 60,
+    "cost": 5.86,
+    "price": 7.85,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "ProHydrolase 250mg",
+    "sku": 95034,
+    "size": 120,
+    "cost": 10.97,
+    "price": 14.65,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Prost-Eze",
+    "sku": 2120,
+    "size": 60,
+    "cost": 3.47,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Prostate Support",
+    "sku": 124,
+    "size": 90,
+    "cost": 5.2,
+    "price": 7.45,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Psyllium Husk Powder",
+    "sku": 7975,
+    "size": "340gm",
+    "cost": 5.2,
+    "price": 6.95,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Psyllium Seed 725mg",
+    "sku": 69,
+    "size": 120,
+    "cost": 3.71,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Psyllium Seed 725mg",
+    "sku": 229,
+    "size": 240,
+    "cost": 5.88,
+    "price": 8.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Red Raspberry Complex",
+    "sku": 55,
+    "size": 60,
+    "cost": 4.45,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Red Raspberry Complex",
+    "sku": 230,
+    "size": 120,
+    "cost": 7.85,
+    "price": 10.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Raspberry Ketone Complex",
+    "sku": 11007,
+    "size": 60,
+    "cost": 4.31,
+    "price": 8.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Raspberry Ketone 250mg",
+    "sku": 95035,
+    "size": 30,
+    "cost": 2.03,
+    "price": 2.75,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Raspberry Ketone 250mg",
+    "sku": 14389,
+    "size": 60,
+    "cost": 2.83,
+    "price": 3.8,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Respiratory Support",
+    "sku": 42521,
+    "size": 60,
+    "cost": 4.2,
+    "price": 5.6,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Respiratory Support",
+    "sku": 42522,
+    "size": 120,
+    "cost": 7.31,
+    "price": 9.75,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Resveratrol 250mg",
+    "sku": 4579,
+    "size": 60,
+    "cost": 9.85,
+    "price": 12.95,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Resveratrol 50mg",
+    "sku": 1488,
+    "size": 60,
+    "cost": 4.41,
+    "price": 6.3,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Saw Palmetto 500mg",
+    "sku": 56,
+    "size": 100,
+    "cost": 3.43,
+    "price": 4.9,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Selenium",
+    "sku": 6392,
+    "size": 100,
+    "cost": 2.93,
+    "price": 3.9,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Serrapeptase 40000IU",
+    "sku": 70,
+    "size": 90,
+    "cost": 6.97,
+    "price": 10.5,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Sleep Complex",
+    "sku": 11020,
+    "size": 60,
+    "cost": 5.61,
+    "price": 7.5,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 10069,
+    "size": "408GM",
+    "cost": 10.75,
+    "price": 13.45,
+    "type": "Powder Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 9402,
+    "size": "816GM",
+    "cost": 20,
+    "price": 25,
+    "type": "Powder Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 9403,
+    "size": "5lb",
+    "cost": 52.17,
+    "price": 65.25,
+    "type": "Powder Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 9448,
+    "size": "408GM",
+    "cost": 10.75,
+    "price": 13.45,
+    "type": "Powder Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 9406,
+    "size": "816GM",
+    "cost": 20,
+    "price": 25,
+    "type": "Powder Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Source 10 Protein",
+    "sku": 9407,
+    "size": "5lb",
+    "cost": 52.17,
+    "price": 65.25,
+    "type": "Powder Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Spirulina 500mg",
+    "sku": 95036,
+    "size": 90,
+    "cost": 3.97,
+    "price": 5.35,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "St. Johns Wort 500mg",
+    "sku": 57,
+    "size": 100,
+    "cost": 3.93,
+    "price": 5.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Stress B w/ C",
+    "sku": 12,
+    "size": 90,
+    "cost": 4.02,
+    "price": 5.35,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Calcium Magnesium",
+    "sku": 31,
+    "size": 100,
+    "cost": 2.73,
+    "price": 3.65,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Calcium Magnesium",
+    "sku": 236,
+    "size": 250,
+    "cost": 5,
+    "price": 6.7,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Carb",
+    "sku": 151,
+    "size": "2.2lb",
+    "cost": 6.25,
+    "price": 8.35,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Fat Burner",
+    "sku": 88,
+    "size": 90,
+    "cost": 5.49,
+    "price": 7.85,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Vitamin Pack",
+    "sku": 7071,
+    "size": "30 Packets",
+    "cost": 9.99,
+    "price": 14.3,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Vitamin Pack",
+    "sku": 8063,
+    "size": "100 Packets",
+    "cost": 30.57,
+    "price": 43.7,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Super Vitamin pack (Jar)",
+    "sku": 12852,
+    "size": "30 Packets",
+    "cost": 11.49,
+    "price": 16.4,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Therma Trim EF",
+    "sku": 90,
+    "size": 90,
+    "cost": 5.45,
+    "price": 9.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Therma Trim EF",
+    "sku": 240,
+    "size": 180,
+    "cost": 9.89,
+    "price": 13.2,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Thyroid Support",
+    "sku": 126,
+    "size": 60,
+    "cost": 2.94,
+    "price": 4.2,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Thyroid Support",
+    "sku": 241,
+    "size": 120,
+    "cost": 4.85,
+    "price": 6.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Tongkat Ali Extract 400mg",
+    "sku": 42937,
+    "size": 60,
+    "cost": 6.47,
+    "price": 8.65,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Tongkat Ali Extract 400mg",
+    "sku": 42938,
+    "size": 120,
+    "cost": 11.87,
+    "price": 15.85,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Tribulus Terrestris 1000mg",
+    "sku": 152,
+    "size": 100,
+    "cost": 6.27,
+    "price": 8.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Triphala 750mg Extract",
+    "sku": 95037,
+    "size": 60,
+    "cost": 3.56,
+    "price": 4.75,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Tryptophan Complex",
+    "sku": 49116,
+    "size": 60,
+    "cost": 3.67,
+    "price": 4.9,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turmeric 500mg",
+    "sku": 95038,
+    "size": 60,
+    "cost": 5.88,
+    "price": 7.85,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turmeric 500mg",
+    "sku": 95039,
+    "size": 120,
+    "cost": 10.69,
+    "price": 14.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turmeric 750mg",
+    "sku": 19491,
+    "size": 60,
+    "cost": 9.2,
+    "price": 13.15,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turmeric 750mg",
+    "sku": 19492,
+    "size": 120,
+    "cost": 17.31,
+    "price": 24.75,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turn Gray Away",
+    "sku": 3783,
+    "size": 60,
+    "cost": 4.71,
+    "price": 6.3,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turn Wrinkles Away",
+    "sku": 5026,
+    "size": 60,
+    "cost": 4.54,
+    "price": 6.05,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Turn Wrinkles Away",
+    "sku": 5025,
+    "size": 120,
+    "cost": 8.06,
+    "price": 10.74,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ubiquinol 50mg",
+    "sku": 2481,
+    "size": 60,
+    "cost": 11.62,
+    "price": 15.5,
+    "type": "Softgel",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Uric Acid Support",
+    "sku": 41221,
+    "size": 60,
+    "cost": 4.78,
+    "price": 6.4,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Urinary Tract Support",
+    "sku": "",
+    "size": 60,
+    "cost": 9.45,
+    "price": 12.6,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "V-4 Men",
+    "sku": 127,
+    "size": 30,
+    "cost": 3.97,
+    "price": 9.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "V-4 Men",
+    "sku": 8193,
+    "size": "2 Packets",
+    "cost": 0.65,
+    "price": 0.85,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Vanilla",
+    "sku": 34853,
+    "size": "1lb",
+    "cost": 9.97,
+    "price": 13.3,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Vanilla",
+    "sku": 34855,
+    "size": "2lb",
+    "cost": 18.94,
+    "price": 25.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Vanilla",
+    "sku": 34862,
+    "size": "5lb",
+    "cost": 42.5,
+    "price": 56.7,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Vanilla",
+    "sku": 36676,
+    "size": "30gm",
+    "cost": 1.19,
+    "price": 1.5,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Chocolate",
+    "sku": 34856,
+    "size": "1lb",
+    "cost": 9.97,
+    "price": 13.3,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Chocolate",
+    "sku": 34858,
+    "size": "2lb",
+    "cost": 18.94,
+    "price": 25.25,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Chocolate",
+    "sku": 34863,
+    "size": "5lb",
+    "cost": 42.5,
+    "price": 56.7,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegan Protein Chocolate",
+    "sku": 36677,
+    "size": "30gm",
+    "cost": 1.19,
+    "price": 1.5,
+    "type": "Powder",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vegie-Vite",
+    "sku": 42,
+    "size": 90,
+    "cost": 4.79,
+    "price": 6.4,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vision Support",
+    "sku": 128,
+    "size": 60,
+    "cost": 4.37,
+    "price": 6.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Vision Support",
+    "sku": 242,
+    "size": 120,
+    "cost": 7.87,
+    "price": 11.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Wakame Trim (Fucoxanthin)",
+    "sku": 1846,
+    "size": 90,
+    "cost": 7.87,
+    "price": 12.45,
+    "type": "Vegetable Cap.",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Water Away",
+    "sku": 4067,
+    "size": 60,
+    "cost": 3.2,
+    "price": 4.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 5796,
+    "size": "420GM",
+    "cost": 13.21,
+    "price": 15.75,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 5795,
+    "size": "840GM",
+    "cost": 24.78,
+    "price": 29.4,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 804,
+    "size": "2270GM",
+    "cost": 62.41,
+    "price": 74.2,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "single packet",
+    "sku": 7035,
+    "size": "31GM",
+    "cost": 1.22,
+    "price": 1.5,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey 31gm single 12 pack",
+    "sku": "VLWV31GM-12PK",
+    "size": "31GM PER PKT",
+    "cost": 16.15,
+    "price": 17.55,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 15524,
+    "size": "420GM",
+    "cost": 13.21,
+    "price": 15.75,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 15527,
+    "size": "840GM",
+    "cost": 24.78,
+    "price": 29.4,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 1151,
+    "size": "2270GM",
+    "cost": 62.41,
+    "price": 74.2,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein single packet",
+    "sku": 15830,
+    "size": "33GM",
+    "cost": 1.22,
+    "price": 1.5,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein single 12 pack",
+    "sku": "VLWC33GM-12PK",
+    "size": "33GM PER PKT",
+    "cost": 16.15,
+    "price": 17.55,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 7107,
+    "size": "420GM",
+    "cost": 13.21,
+    "price": 15.75,
+    "type": "Strawberry",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 944,
+    "size": "840GM",
+    "cost": 24.78,
+    "price": 29.4,
+    "type": "Strawberry",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein",
+    "sku": 2603,
+    "size": "2270GM",
+    "cost": 62.41,
+    "price": 74.2,
+    "type": "Strawberry",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein single packet",
+    "sku": 7039,
+    "size": "30GM",
+    "cost": 1.29,
+    "price": 1.5,
+    "type": "Strawberry",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Ultra Whey-26 Protein single 12 pack",
+    "sku": "VLWS30GM-12PK",
+    "size": "30GM PER PKT",
+    "cost": 16.15,
+    "price": 17.55,
+    "type": "Strawberry",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18164,
+    "size": "372GM Bottle",
+    "cost": 12.91,
+    "price": 15.65,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18166,
+    "size": "744GM Bottle",
+    "cost": 23.92,
+    "price": 28.9,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18167,
+    "size": "372GM Pouch",
+    "cost": 13.51,
+    "price": 16.4,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18168,
+    "size": "744GM Pouch",
+    "cost": 24.52,
+    "price": 29.65,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18169,
+    "size": "5lb Pouch",
+    "cost": 67.94,
+    "price": 81.8,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦ single packet",
+    "sku": 18170,
+    "size": "31GM Pkt",
+    "cost": 1.29,
+    "price": 1.6,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦ single 12 pack",
+    "sku": 18171,
+    "size": "31GM 12-Pkt",
+    "cost": 16.62,
+    "price": 18.5,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18172,
+    "size": "372GM Bottle",
+    "cost": 12.91,
+    "price": 15.65,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18173,
+    "size": "744GM Bottle",
+    "cost": 23.92,
+    "price": 28.9,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18174,
+    "size": "372GM Pouch",
+    "cost": 13.51,
+    "price": 16.4,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18291,
+    "size": "744GM Pouch",
+    "cost": 24.52,
+    "price": 29.65,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦",
+    "sku": 18176,
+    "size": "5lb Pouch",
+    "cost": 67.94,
+    "price": 81.8,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦ single packet",
+    "sku": 18177,
+    "size": "31GM Pkt",
+    "cost": 1.29,
+    "price": 1.6,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey-26 Protein Advancedâ€¦ single 12 pack",
+    "sku": 18178,
+    "size": "31GM 12-Pkt",
+    "cost": 16.62,
+    "price": 18.5,
+    "type": "Chocolate",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey Pro (concentrate)",
+    "sku": 7261,
+    "size": "1lb",
+    "cost": 9.85,
+    "price": 13.15,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Whey Pro (concentrate)",
+    "sku": 139,
+    "size": "2lb",
+    "cost": 17.75,
+    "price": 23.7,
+    "type": "Vanilla",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "White Kidney Bean Extract",
+    "sku": 86,
+    "size": 60,
+    "cost": 5.65,
+    "price": 7.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "White Kidney Bean Extract",
+    "sku": 233,
+    "size": 120,
+    "cost": 10.25,
+    "price": 14.5,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Women's Daily Pack",
+    "sku": 7154,
+    "size": "30 Packets",
+    "cost": 14.97,
+    "price": 19.9,
+    "type": "Packet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Women's Support",
+    "sku": 129,
+    "size": 60,
+    "cost": 3.93,
+    "price": 5.25,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Women's Support",
+    "sku": 243,
+    "size": 120,
+    "cost": 6.96,
+    "price": 9.95,
+    "type": "Capsule",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "X-tend",
+    "sku": 106,
+    "size": 60,
+    "cost": 4.59,
+    "price": 5.95,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  },
+  {
+    "name": "Zinc 50mg",
+    "sku": 33,
+    "size": 100,
+    "cost": 2.02,
+    "price": 2.7,
+    "type": "Tablet",
+    "vendor": "Vitalabs"
+  }
+]
